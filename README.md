@@ -1,6 +1,9 @@
 # popping-balloons
 A simple guessing game. Predict which one will be the last balloon.
-![alt text](https://images.unsplash.com/photo-1530103862676-de8c9debad1d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)
+
+<p align="center"> 
+<img src="https://images.unsplash.com/photo-1530103862676-de8c9debad1d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" width="500">
+</p>
 
 ## Instructions
 Simply look for any online Python shell and copy the contents of the .py file there. Then execute it.
